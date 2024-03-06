@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>imgs/welcome2.jpg</file>
+    </qresource>
+</RCC>
